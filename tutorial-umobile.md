@@ -96,17 +96,17 @@ In this section of the tutorial, a detailed description of UMOBILE Lab and its c
 <br/>
 In this section, attendees will be able to experiment with the DTN interface that has been integrated into the NDN platform. By deliberately inducing network impairments, we will showcase the benefits of the integration.
 
-**iv)	NDN operation in Opportunistic Wireless Networks (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_NDN-Opp-routing.pdf))**
+**iv)	NDN operation in Opportunistic Wireless Networks (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_NDN-Opp-routing.pdf){: target="ACMICN17_UMOBILE_NDN-Opp-routing.pdf"})**
 <br/>
 We'll describe the NDN framework for Opportunistic Networks (NDN-Opp),
 which is being developed aiming to support opportunistic forwarding based on users' interests and their dynamic social behavior. NDN-Opp will be demonstrated in a micro-blogging urban scenarios in which a user, makes use of the Now@ application to generate and share expressions of interest in the form of tagged information (e.g., nearby supermarket offers or restaurant review), as well as to generate data related to those interests. This demo aims to show how NDN-Opp allows users to benefit from locally available information.
 
-**v)	Social-aware metrics derived from contextualization (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_ContextualizationSession.pdf))**
+**v)	Social-aware metrics derived from contextualization (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_ContextualizationSession.pdf){: target="ACMICN17_UMOBILE_ContextualizationSession.pdf"})**
 <br/>
 UMOBILE integrates in its end-user service application the Contextual Manager (CM), a module that assists in a more efficient data dissemination via capturing and infering network and proximity context. 
 In this tutorial we shall go over the UMOBILE contextual manager and explain two main families of routing metrics: i) how the contextual manager can provide metrics derived from encounter duration; ii) how the contextual manager can provide metrics derived from interests and interest matching.
 
-**vi)	Applications (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_NDN_Applications.pdf))**
+**vi)	Applications (40 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_NDN_Applications.pdf){: target="ACMICN17_UMOBILE_NDN_Applications.pdf"})**
 <br/>
 Attendees will be able to experiment with Now@ and Oi!, two applications developed to run over the UMOBILE platform.
 Now@ is an Android application which enables users to share data based on their interests over an NDN infrastructure. 

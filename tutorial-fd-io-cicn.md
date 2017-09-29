@@ -157,7 +157,7 @@ items:
 
 5. Applications: Consumer/ Producer Socket API, MPEG-DASH over ICN (30 min).
 
-All slides are available in a single [slide deck](files/tutorial-cicn/FDio-cicn-tutorial.pdf).
+All slides are available in a single [slide deck](files/tutorial-cicn/FDio-cicn-tutorial.pdf){: target="FDio-cicn-tutorial.pdf"}.
 
 ### Requirements for the attendees
 
