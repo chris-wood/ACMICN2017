@@ -230,7 +230,7 @@ participants through the hands-on exercises and deployment
 processes, encouraging interested students and researchers to
 further engage with ICN in IoT.
 
-### Tutorial outline (full day schedule)
+### Tutorial outline and slides (full day schedule)
 
 
 The full-day tutorial (9 hours including coffee breaks and

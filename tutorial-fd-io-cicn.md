@@ -141,7 +141,7 @@ perform the following tasks with CICN:
 * Write applications that make use of the consumer/producer socket API;
 * Deploy a network testbed made of several components such as software routers in Linux containers, end-points such as data producers and consumers, collect network analytics;
 
-### Tutorial outline (half day schedule)
+### Tutorial outline and slides (half day schedule)
 
 The tutorial duration is half-day
 and would cover the following
@@ -156,6 +156,8 @@ items:
 4. vICN: configuration, management and control of an virtual ICN network (60min);
 
 5. Applications: Consumer/ Producer Socket API, MPEG-DASH over ICN (30 min).
+
+All slides are available in a single [slide deck](files/tutorial-cicn/FDio-cicn-tutorial.pdf).
 
 ### Requirements for the attendees
 
