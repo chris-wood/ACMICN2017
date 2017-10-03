@@ -81,7 +81,7 @@ This tutorial intends to go over three main innovation aspects concerning ICN: i
 
 ### Tutorial outline and slides (half day schedule)
 
-**i)	UMOBILE in a nutshell (10 min)**
+**i)	UMOBILE in a nutshell (10 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_nutshell.pdf){: target="ACMICN17_UMOBILE_nutshell.pdf"})**
 <br/>
 Introduction on the UMOBILE architecture, its design and its modules
 
@@ -92,7 +92,7 @@ In this section of the tutorial, a detailed description of UMOBILE Lab and its c
 * how to access each device in the lab;
 * how to test NDN Network using a Linux device.
 
-**iii)	NDN-DTN integration (20 min)**
+**iii)	NDN-DTN integration (20 min) ([Slides](files/tutorial-umobile/ACMICN17_UMOBILE_tunneling.pdf){: target="ACMICN17_UMOBILE_tunneling.pdf"})**
 <br/>
 In this section, attendees will be able to experiment with the DTN interface that has been integrated into the NDN platform. By deliberately inducing network impairments, we will showcase the benefits of the integration.
 
